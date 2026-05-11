@@ -46,3 +46,10 @@ Clone the repository and install the required dependencies:
 git clone https://github.com/omkar-jadhav-embedded-systems/Traditional-RAG-using-Local-LLM-Ollama.git
 cd Traditional-RAG-using-Local-LLM-Ollama
 pip install -r requirements.txt
+
+
+## 🚀 Application Preview
+
+Here is a preview of the chatbot interface. The application provides a clean, user-friendly way to interact with your local documents while ensuring 100% privacy.
+
+![Chatbot Preview](assets/app_preview.png)
