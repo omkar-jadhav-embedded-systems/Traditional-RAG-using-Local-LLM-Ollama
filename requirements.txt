@@ -1,0 +1,19 @@
+# LangChain Ecosystem
+langchain-community
+langchain-text-splitters
+
+# Vector Database & Embeddings
+chromadb
+sentence-transformers
+numpy
+
+# Local LLM Integration
+ollama
+
+# Document Loaders (Required for your specific DirectoryLoaders)
+pymupdf           # For PyMuPDFLoader (PDF files)
+docx2txt          # For Docx2txtLoader (DOCX files)
+unstructured      # Base dependency for Unstructured loaders
+beautifulsoup4    # For BSHTMLLoader (HTML files)
+python-pptx       # For UnstructuredPowerPointLoader (PPTX files)
+openpyxl          # For UnstructuredExcelLoader (XLSX files)
